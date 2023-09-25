@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lekhanag246
 - 👀 I’m interested in full stack web development (MERN)
 - 🌱 I’m currently learning rest api and DSA
-- 
 <!---
 - 💞️ I’m looking to collaborate on anthing that will be considered as professional experience for full stack web development
 - 📫 How to reach me https://www.linkedin.com/in/pushpalekha-nag-d
