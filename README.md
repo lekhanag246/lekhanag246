@@ -12,7 +12,7 @@ lekhanag246/lekhanag246 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ### my projects
-1. [my to do application](https://to-do-sept-2023.vercel.app/)
+1. [my to-do-application](https://to-do-sept-2023.vercel.app/)
    + currently it supports only one user - no authentication
    + backend is simple - no validation
-   + [the api ](https://to-do-list-r8xp.onrender.com/)
+   + [the api ](https://to-do-list-r8xp.onrender.com/app/tasks)
