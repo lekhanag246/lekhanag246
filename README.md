@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
    + the user is authorised to home page (tasks page) only after logging in using json web token .
    + the user can reset their password too.
    + **FRONTEND :** React JS
-         - **npm libraries :** axios, react-router-dom 
+     - **npm libraries :** axios, react-router-dom 
    + **BACKEND :** Node JS ,Express JS
-         - **npm libraries :** express, jsonwebtoken, nodemailer, validator, ejs, cors, bcryptjs, mongoose, nodemon, dotenv,  
+     - **npm libraries :** express, jsonwebtoken, nodemailer, validator, ejs, cors, bcryptjs, mongoose, nodemon, dotenv,  
    + **DATABASE :** mongodb atlas
    + [the api ](https://to-do-list-v2-640k.onrender.com/test)
 
